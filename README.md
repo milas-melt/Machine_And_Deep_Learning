@@ -1,4 +1,4 @@
-# Papers
+# Papers currently covering
 - When studying Transformers, LSTMs, LLMs: [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/pdf/1912.09363.pdf)
 - When modelling volatility: [Variational Autoencoders: A Hands-Off Approach to Volatility](https://arxiv.org/pdf/2102.03945.pdf)
 - When covering Deep Neural Networks gradient instability (notably with the study of Vanishing/Exploding Gradients Problem): [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
