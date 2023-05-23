@@ -8,3 +8,4 @@
 - When covering batch normalisation: [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://proceedings.mlr.press/v37/ioffe15.pdf)
 - When covering batch normalization and its substitutes such as the fixed_update weights presented in the following paper: [FIXUP INITIALIZATION: RESIDUAL LEARNING WITHOUT NORMALIZATION](https://arxiv.org/pdf/1901.09321.pdf)
 - When covering Word2Vec: [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
+- When covering GloVe: [ALL-BUT-THE-TOP: SIMPLE AND EFFECTIVE POSTPROCESSING FOR WORD REPRESENTATIONS](https://arxiv.org/pdf/1702.01417.pdf)
