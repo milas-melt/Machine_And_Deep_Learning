@@ -10,3 +10,4 @@
 - When covering batch normalization and its substitutes such as the fixed_update weights presented in the following paper: [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/pdf/1901.09321.pdf)
 - When covering Word2Vec: [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
 - When covering GloVe: [All-but-the-top: Simple And Effective Processing For Word Representations](https://arxiv.org/pdf/1702.01417.pdf)
+- When creating the NN architecture of credit scoring, controlling the flow of info between categorical and non-categorical label-encoded data using GRNs [Language Modeling with Gated Convolutional Networks](https://arxiv.org/pdf/1612.08083.pdf)
