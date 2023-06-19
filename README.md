@@ -13,3 +13,5 @@
 - When creating the NN architecture of credit scoring, controlling the flow of info between categorical and non-categorical label-encoded data using GRNs [Language Modeling with Gated Convolutional Networks](https://arxiv.org/pdf/1612.08083.pdf)
 - When working on attention mechanisms. [Attention Is All You Need](https://arxiv.org/pdf/1706.03762v5.pdf)
 - [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+- [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044)
+- [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
