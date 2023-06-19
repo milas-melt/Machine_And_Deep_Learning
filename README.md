@@ -11,5 +11,5 @@
 - When covering Word2Vec: [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
 - When covering GloVe: [All-but-the-top: Simple And Effective Processing For Word Representations](https://arxiv.org/pdf/1702.01417.pdf)
 - When creating the NN architecture of credit scoring, controlling the flow of info between categorical and non-categorical label-encoded data using GRNs [Language Modeling with Gated Convolutional Networks](https://arxiv.org/pdf/1612.08083.pdf)
-- When working on attention mechanisms. [Attention is all you need](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/1706.03762v5.pdf)
-- introducing seq-to-seq models: [SequencetoSequenceLearning withNeuralNetworks](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://proceedings.neurips.cc/paper_files/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)
+- When working on attention mechanisms. [Attention Is All You Need](https://arxiv.org/pdf/1706.03762v5.pdf)
+- [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
